@@ -16,6 +16,14 @@ button {
   margin-right: auto;
 }
 
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  line-height: 0px;
+
+}
+
 .header {
   height: 500px;
 }
@@ -25,29 +33,37 @@ button {
 
 }
 
-footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  line-height: 0px;
-
-}
-
 .jtop {
+<<<<<<< HEAD
   background-image: url("../img/s1.png");
+=======
+  background-image: url("../img/midi.png");
+>>>>>>> master
   height: 185px;
   font-size: 100px;
 }
 
+.card-img-top {
+  width: 1000px;
+}
+
 .jbottom {
+<<<<<<< HEAD
   background-image: url("../img/s1.png");
+=======
+  background-image: url("../img/midi.png");
+>>>>>>> master
   height: 185px;
 }
 
-.card-img-top {
-    width: 1000px;
-}
+.centerimg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 5px;
+  width: 200px;
 
+}
 
 .centertxt {
   padding-top: 40px;

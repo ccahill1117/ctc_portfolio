@@ -7,7 +7,6 @@ h1 {
 }
 
 h2 {
-  text-align: center;
   color: pink;
 }
 
@@ -25,27 +24,38 @@ footer {
 
 }
 
-.card-img-top {
-  width: 900px;
-}
-
 .header {
   height: 500px;
 }
 
 .panel {
   padding: 5px;
+
 }
 
 .jtop {
+<<<<<<< HEAD
   background-image: url("../img/PCSL.png");
   height: 130px;
+=======
+  background-image: url("../img/midi.png");
+  height: 185px;
+  font-size: 100px;
+}
+>>>>>>> master
 
+.card-img-top {
+  width: 1000px;
 }
 
 .jbottom {
+<<<<<<< HEAD
   background-image: url("../img/PCSL.png");
   height: 130px;
+=======
+  background-image: url("../img/midi.png");
+  height: 185px;
+>>>>>>> master
 }
 
 .centerimg {
@@ -77,4 +87,9 @@ footer {
   padding-top: 50px;
   color: white;
   font-size: 20px;
+}
+
+@@media query {
+
+
 }
