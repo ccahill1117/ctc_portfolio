@@ -16,3 +16,8 @@ h2 {
 .cardpix {
   width: 200px;
 }
+
+.card {
+  width: 500px;
+  height: 500px;
+}
