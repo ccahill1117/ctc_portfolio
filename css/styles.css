@@ -7,16 +7,16 @@ h2 {
 }
 
 .jtop {
-  background-image: url("../img/ctctop.jpg");
+  background-image: url("../img/ctcbottom.jpg");
   background-size: cover;
-  height: 500px;
+  height: 250px;
   font-size: 100px;
 }
 
 .jbottom {
-  background-image: url("../img/ctcbottom.jpg");
+  background-image: url("../img/ctctop.jpg");
   background-size: cover;
-  height: 500px;
+  height: 250px;
   font-size: 100px;
 }
 
@@ -25,10 +25,20 @@ h2 {
   align-items: center;
 }
 
+.cardbodytext {
+  text-align: center;
+  color: green;
+  font-weight: bold;
+  font-family: monospace;
+  font-size: 15px;
+
+}
+
 .card {
   width: 300px;
   height: 400px;
-  border-width: thick;
+  border-style: solid;
+  border-width: 20px;
   color: #ffa07a;
 
 }
