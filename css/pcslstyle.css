@@ -7,6 +7,7 @@ h1 {
 }
 
 h2 {
+  text-align: center;
   color: pink;
 }
 
@@ -34,16 +35,14 @@ footer {
 }
 
 .jtop {
-  background-image: url("../img/ctcbottom.jpg");
-  background-size: cover;
-  height: 150px;
+  background-image: url("../img/pcsl.png");
+  height: 130px;
   font-size: 100px;
 }
 
 .jbottom {
-  background-image: url("../img/ctctop.jpg");
-  background-size: cover;
-  height: 150px;
+  background-image: url("../img/pcsl.png");
+  height: 130px;
 }
 
 .centerimg {
@@ -51,7 +50,7 @@ footer {
   margin-left: auto;
   margin-right: auto;
   padding: 5px;
-  width: 150px;
+  width: 200px;
 
 }
 
@@ -75,9 +74,4 @@ footer {
   padding-top: 50px;
   color: white;
   font-size: 20px;
-}
-
-@@media query {
-
-
 }
