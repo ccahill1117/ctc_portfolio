@@ -14,10 +14,13 @@ h2 {
 }
 
 .cardpix {
-  width: 200px;
+  width: 300px;
+  align-items: center;
 }
 
 .card {
-  width: 500px;
-  height: 500px;
+  width: 300px;
+  height: 400px;
+  border-width: thick;
+
 }
