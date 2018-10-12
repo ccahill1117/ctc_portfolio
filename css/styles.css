@@ -6,8 +6,15 @@ h2 {
   color: pink;
 }
 
-.jumbotron {
-  background-image: url("../img/ctc.jpg");
+.jtop {
+  background-image: url("../img/ctctop.jpg");
+  background-size: cover;
+  height: 500px;
+  font-size: 100px;
+}
+
+.jbottom {
+  background-image: url("../img/ctcbottom.jpg");
   background-size: cover;
   height: 500px;
   font-size: 100px;
@@ -22,5 +29,10 @@ h2 {
   width: 300px;
   height: 400px;
   border-width: thick;
+  color: #ffa07a;
 
+}
+
+#chempic {
+  height: 250px;
 }
