@@ -63,6 +63,11 @@ footer {
   bottom: 0; */
 }
 
+.container-fluid {
+  width: 90%;
+  padding-top: 20px;
+}
+
 .sayhey {
   text-align: center;
 }
