@@ -51,6 +51,7 @@ footer {
   margin-left: auto;
   margin-right: auto;
   padding: 5px;
+  padding-top: 20px;
   width: 150px;
 
 }
@@ -62,6 +63,9 @@ footer {
   bottom: 0; */
 }
 
+.sayhey {
+  text-align: center;
+}
 .row {
   display: flex;
   flex-direction: row;
