@@ -1,5 +1,5 @@
 body {
-  background-color: #d3d3d3;
+  background-color: white;
 }
 
 h1 {
@@ -10,8 +10,19 @@ h2 {
   color: pink;
 }
 
+button {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .header {
   height: 500px;
+}
+
+.panel {
+  padding: 5px;
+
 }
 
 footer {
@@ -33,26 +44,40 @@ footer {
   background-image: url("../img/ctctop.jpg");
   background-size: cover;
   height: 150px;
-  font-size: 100px;
-
 }
 
 .centerimg {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  padding: 15px;
+  padding: 5px;
+  width: 200px;
 
 }
 
 .centertxt {
   padding-top: 40px;
-  /* text-align: center;
-  position: absolute;
+  text-align: center;
+  /* position: absolute;
   bottom: 0; */
 }
 
 .row {
   display: flex;
   flex-direction: row;
+}
+
+.shadow {
+  box-shadow: inset 0 0 10px #000000;
+}
+
+.navtext {
+  padding-top: 50px;
+  color: white;
+  font-size: 20px;
+}
+
+@@media query {
+
+
 }
