@@ -75,3 +75,15 @@ footer {
   color: white;
   font-size: 20px;
 }
+
+.lizt {
+    list-style: decimal inside;
+}
+
+.liztgroup {
+    display: list-item;
+}
+
+.gittext {
+  background-color: red;
+}
