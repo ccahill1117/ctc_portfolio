@@ -18,11 +18,6 @@ footer {
 
 }
 
-p.cardtext {
-  position: absolute;
-  bottom: 0;
-}
-
 .jtop {
   background-image: url("../img/ctcbottom.jpg");
   background-size: cover;
@@ -38,6 +33,28 @@ p.cardtext {
 
 }
 
+.centerimg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.centertxt {
+  text-align: center;
+  position: absolute;
+  bottom: 0;
+}
+
+.panel {
+  border-style: solid;
+  height: auto;
+}
+
 #chempic {
-  height: 250px;
+  width: 400px;
+}
+
+#semipic {
+  width: 200px;
 }
