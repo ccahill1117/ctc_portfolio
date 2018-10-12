@@ -34,28 +34,18 @@ footer {
 }
 
 .jtop {
-<<<<<<< HEAD
-  background-image: url("../img/PCSL.png");
-  height: 130px;
-=======
   background-image: url("../img/midi.png");
   height: 185px;
   font-size: 100px;
 }
->>>>>>> master
 
 .card-img-top {
   width: 1000px;
 }
 
 .jbottom {
-<<<<<<< HEAD
-  background-image: url("../img/PCSL.png");
-  height: 130px;
-=======
   background-image: url("../img/midi.png");
   height: 185px;
->>>>>>> master
 }
 
 .centerimg {
