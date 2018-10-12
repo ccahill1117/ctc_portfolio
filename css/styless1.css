@@ -44,14 +44,10 @@ footer {
   height: 185px;
 }
 
-.centerimg {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 5px;
-  width: 200px;
-
+.card-img-top {
+    width: 1000px;
 }
+
 
 .centertxt {
   padding-top: 40px;
