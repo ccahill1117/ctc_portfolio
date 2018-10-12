@@ -1,3 +1,7 @@
+#semipic {
+  width: 300px;
+}
+
 h1 {
   color: red;
 }
@@ -46,15 +50,19 @@ footer {
   bottom: 0;
 }
 
-.panel {
-  border-style: solid;
-  height: auto;
+.row {
+  display: flex;
+  flex-direction: row;
 }
 
-#chempic {
-  width: 400px;
+.panel {
+
+}
+
+/* #chempic {
+  width: 300px;
 }
 
 #semipic {
   width: 200px;
-}
+} */
