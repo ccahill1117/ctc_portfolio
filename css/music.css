@@ -16,20 +16,20 @@ button {
   margin-right: auto;
 }
 
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  line-height: 0px;
+
+}
+
 .header {
   height: 500px;
 }
 
 .panel {
   padding: 5px;
-
-}
-
-footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  line-height: 0px;
 
 }
 
