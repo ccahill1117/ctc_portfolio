@@ -1,3 +1,10 @@
 h1 {
   color: red;
 }
+
+.jumbotron {
+  background-image: url("../img/ctc.jpg");
+  background-size: cover;
+  height: 500px;
+  font-size: 100px;
+}
