@@ -18,6 +18,11 @@ footer {
 
 }
 
+p.cardtext {
+  position: absolute;
+  bottom: 0;
+}
+
 .jtop {
   background-image: url("../img/ctcbottom.jpg");
   background-size: cover;
