@@ -17,15 +17,6 @@ button {
   margin-right: auto;
 }
 
-.header {
-  height: 500px;
-}
-
-.panel {
-  padding: 5px;
-
-}
-
 footer {
   position: absolute;
   bottom: 0;
@@ -34,10 +25,22 @@ footer {
 
 }
 
+.card-img-top {
+  width: 900px;
+}
+
+.header {
+  height: 500px;
+}
+
+.panel {
+  padding: 5px;
+}
+
 .jtop {
   background-image: url("../img/pcsl.png");
   height: 130px;
-  font-size: 100px;
+
 }
 
 .jbottom {
