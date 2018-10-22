@@ -11,8 +11,8 @@ h2 {
 
 button {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  /* margin-left: auto;
+  margin-right: auto; */
 }
 
 footer {
@@ -137,13 +137,23 @@ blockquote {
 
 .jtop#aboutMe {
   background-image: url("../img/ctcbottom.jpg");
-  background-size: cover;
   height: 150px;
   font-size: 100px;
 }
 
 .jbottom#aboutMe {
   background-image: url("../img/ctctop.jpg");
-  background-size: cover;
   height: 150px;
+}
+
+#aldoMe {
+  width : 500px;
+}
+
+#s1Pic {
+  width : 500px;
+}
+
+#ppccssLL {
+  width : 500px;
 }

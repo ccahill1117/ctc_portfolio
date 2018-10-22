@@ -7,9 +7,7 @@
   <title>Projects 💻</title>
 </head>
 <body>
-  <header class="jtop" id="projects">
-    <h1></h1>
-  </header>
+  <header class="jtop" id="projects"></header>
   <section>
     <ul class="list-group">
       <li class="list-group-item">
@@ -38,31 +36,29 @@
       </div>
     </div>
   </footer>
-</div>
-<script>
-(function(w, d){
-  var id='embedly-platform', n = 'script';
-  if (!d.getElementById(id)){
-    w.embedly = w.embedly || function() {(w.embedly.q = w.embedly.q || []).push(arguments);};
-    var e = d.createElement(n); e.id = id; e.async=1;
-    e.src = ('https:' === document.location.protocol ? 'https' : 'http') + '://cdn.embedly.com/widgets/platform.js';
-    var s = d.getElementsByTagName(n)[0];
-    s.parentNode.insertBefore(e, s);
-  }
-})(window, document);
-</script>
-<h2>So far I have really enjoyed the following at Epicodus:</h2>
-<ol class="list-group lizt">
-  <li class="list-group-item liztgroup">
-    <p>Meeting <em>new people. </em></p>
-  </li>
-  <li class="list-group-item liztgroup">
-    <p>Beginning to <strong>understand</strong> css and styling.</p>
-  </li>
-  <li class="list-group-item liztgroup">
-    <p>How <span class="gittext">Git works!</span></p>
-  </li>
-</ol>
-
+  <script>
+  (function(w, d){
+    var id='embedly-platform', n = 'script';
+    if (!d.getElementById(id)){
+      w.embedly = w.embedly || function() {(w.embedly.q = w.embedly.q || []).push(arguments);};
+      var e = d.createElement(n); e.id = id; e.async=1;
+      e.src = ('https:' === document.location.protocol ? 'https' : 'http') + '://cdn.embedly.com/widgets/platform.js';
+      var s = d.getElementsByTagName(n)[0];
+      s.parentNode.insertBefore(e, s);
+    }
+  })(window, document);
+  </script>
+  <h6>So far I have really enjoyed the following at Epicodus:</h6>
+  <ol class="list-group lizt">
+    <li class="list-group-item liztgroup">
+      <p>Meeting <em>new people. </em></p>
+    </li>
+    <li class="list-group-item liztgroup">
+      <p>Beginning to <strong>understand</strong> css and styling.</p>
+    </li>
+    <li class="list-group-item liztgroup">
+      <p>How <span class="gittext">Git works!</span></p>
+    </li>
+  </ol>
 </body>
 </html>
