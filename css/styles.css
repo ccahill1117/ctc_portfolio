@@ -91,7 +91,59 @@ blockquote {
   font-size: 20px;
 }
 
-@@media query {
+.jtop#music {
+  background-image: url("../img/midi.png");
+  height: 185px;
+  font-size: 100px;
+}
 
+.jbottom#music {
+  background-image: url("../img/midi.png");
+  height: 185px;
+}
 
+.jtop#pcsl {
+  background-image: url("../img/PCSL.png");
+  height: 185px;
+  font-size: 100px;
+}
+
+.jbottom#pcsl {
+  background-image: url("../img/PCSL.png");
+  height: 185px;
+}
+
+.jtop#s1 {
+  background-image: url("../img/s1.jpg");
+  height: 185px;
+  font-size: 100px;
+}
+
+.jbottom#s1 {
+  background-image: url("../img/s1.jpg");
+  height: 185px;
+}
+
+.jtop#projects {
+  background-image: url("../img/epicodus.png");
+  height: 144px;
+  font-size: 100px;
+}
+
+.jbottom#projects {
+  background-image: url("../img/epicodus.png");
+  height: 144px;
+}
+
+.jtop#aboutMe {
+  background-image: url("../img/ctcbottom.jpg");
+  background-size: cover;
+  height: 150px;
+  font-size: 100px;
+}
+
+.jbottom#aboutMe {
+  background-image: url("../img/ctctop.jpg");
+  background-size: cover;
+  height: 150px;
 }

@@ -34,13 +34,13 @@ footer {
 
 }
 
-.jtop {
+.jtop#projects {
   background-image: url("../img/epicodus.png");
   height: 144px;
   font-size: 100px;
 }
 
-.jbottom {
+.jbottom#projects {
   background-image: url("../img/epicodus.png");
   height: 144px;
 }
